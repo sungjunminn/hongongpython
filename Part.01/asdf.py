@@ -15,4 +15,4 @@ output_l = "{:15f}".format(52.273) # 15차지 오른쪽에서 왼쪽으로 .도 
 output_m = "{:15.2f}".format(52.273) # 15칸차지 2칸은 소수점
 
 output_n = 52.0
-output_o = "{:g}".format(output_n) # 의미없는 소수점 제거 => 52 
+output_o = "{:g}".format(output_n) # 의미없는 소수점 제거 => 52 s
